@@ -22,7 +22,7 @@ The project follows a machine-learning-based security monitoring workflow:
 
 **Windows Security Events → Data Preprocessing → Feature Selection → SMOTE → Model Training → Detection → Evaluation → Visualization**
 
-### Data Preprocessing
+## Data Preprocessing
 
 The security event data was prepared for machine learning through:
 
@@ -91,4 +91,5 @@ The dashboard presents the detection results and provides visualizations includi
 ## Academic Project
 
 **Bachelor's Thesis — BSc in Cybersecurity**
+
 German University of Technology in Oman (GUtech)
