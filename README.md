@@ -1,5 +1,4 @@
-# privilege-escalation-backdoor-persistence
-Machine learning-based detection of privilege escalation and backdoor persistence using host-based security monitoring.
+# Machine Learning-Based Detection Of Privilege Escalation And Backdoor Persistence Using Host-Based Security Monitoring.
 
 This project explores the use of machine learning for detecting privilege escalation and backdoor persistence using Windows host-based security event logs.
 
